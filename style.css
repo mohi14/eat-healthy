@@ -26,7 +26,7 @@ h1 span {
 }
 
 .half-width img {
-    width: 80%;
+    width: 100%;
 }
 
 .half-width p {
@@ -46,4 +46,11 @@ h1 span {
 
 .button {
     margin-top: 10%;
+}
+
+.about-me {
+    background-image: url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px 0px;
 }
